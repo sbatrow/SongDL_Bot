@@ -223,6 +223,8 @@ Hit help button to find out more about how to use me</b>""",
                                             "Help", callback_data="help"),
                                         InlineKeyboardButton(
                                             "Channel", url="https://t.me/Youtech_BOTs")
+                                        InlineKeyboardButton(
+                                            "Developer", url="https://t.me/sibatrow")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
