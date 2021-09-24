@@ -220,9 +220,7 @@ Hit help button to find out more about how to use me</b>""",
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
-                                            "Help", callback_data="help"),
-                                        InlineKeyboardButton(
-                                            "Channel", url="https://t.me/Youtech_BOTs"),
+                                            "Help", callback_data="help"),                               
                                         InlineKeyboardButton(
                                             "Developer", url="https://t.me/sibatrow")
                                     ]]
