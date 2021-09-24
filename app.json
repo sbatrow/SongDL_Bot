@@ -9,7 +9,7 @@
         "JE Bots"
     ],
     "website": "https://youtech.live",
-    "repository": "https://https://github.com/sbatrow/Songdl-tgbot",
+    "repository": "https://https://github.com/sbatrow/SongDL_Bot",
     "success_url": "https://t.me/sibatrow",
     "env": {
         "TG_BOT_TOKEN": {
